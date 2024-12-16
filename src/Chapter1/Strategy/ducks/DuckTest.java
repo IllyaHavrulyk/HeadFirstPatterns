@@ -1,10 +1,10 @@
-package Chapter1_ZnayomstvoZPatternamu.ducks;
+package Chapter1.Strategy.ducks;
 
-import Chapter1_ZnayomstvoZPatternamu.behaviour.fly.impl.RocketFlyBehaviour;
-import Chapter1_ZnayomstvoZPatternamu.ducks.impl.ModelDuck;
-import Chapter1_ZnayomstvoZPatternamu.ducks.impl.RocketDuck;
-import Chapter1_ZnayomstvoZPatternamu.ducks.impl.SimpleDuck;
-import Chapter1_ZnayomstvoZPatternamu.ducks.impl.WoodenDuck;
+import Chapter1.Strategy.behaviour.fly.impl.RocketFlyBehaviour;
+import Chapter1.Strategy.ducks.impl.ModelDuck;
+import Chapter1.Strategy.ducks.impl.RocketDuck;
+import Chapter1.Strategy.ducks.impl.SimpleDuck;
+import Chapter1.Strategy.ducks.impl.WoodenDuck;
 
 import java.util.List;
 

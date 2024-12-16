@@ -1,7 +1,7 @@
-package Chapter1_ZnayomstvoZPatternamu.ducks;
+package Chapter1.Strategy.ducks;
 
-import Chapter1_ZnayomstvoZPatternamu.behaviour.fly.FlyBehaviour;
-import Chapter1_ZnayomstvoZPatternamu.behaviour.quack.QuackBehaviour;
+import Chapter1.Strategy.behaviour.fly.FlyBehaviour;
+import Chapter1.Strategy.behaviour.quack.QuackBehaviour;
 
 public abstract class Duck {
     protected FlyBehaviour flyBehaviour;

@@ -1,6 +1,6 @@
-package Chapter1_ZnayomstvoZPatternamu.behaviour.quack.impl;
+package Chapter1.Strategy.behaviour.quack.impl;
 
-import Chapter1_ZnayomstvoZPatternamu.behaviour.quack.QuackBehaviour;
+import Chapter1.Strategy.behaviour.quack.QuackBehaviour;
 
 public class NoQuackBehaviour implements QuackBehaviour {
     @Override

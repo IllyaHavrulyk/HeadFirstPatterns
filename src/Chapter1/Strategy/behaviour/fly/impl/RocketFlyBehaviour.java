@@ -1,6 +1,6 @@
-package Chapter1_ZnayomstvoZPatternamu.behaviour.fly.impl;
+package Chapter1.Strategy.behaviour.fly.impl;
 
-import Chapter1_ZnayomstvoZPatternamu.behaviour.fly.FlyBehaviour;
+import Chapter1.Strategy.behaviour.fly.FlyBehaviour;
 
 public class RocketFlyBehaviour implements FlyBehaviour {
     @Override
